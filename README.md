@@ -19,15 +19,19 @@ To build this text editor, I will start with an existing application and impleme
 
 # Installation
 
-WIP
+1. Run npm i
 
 # Usage
 
-**[Placeholder]()**
+![Example](./assets/Media/SS.gif)
 
-![Placeholder](./)
+1. Run npm i
+2. Run npm start
+3. Navigate to localhost/3000
 
-WIP
+||
+
+1. Navigate to the above heroku link.
 
 # Contribution
 
