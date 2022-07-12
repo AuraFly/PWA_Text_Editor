@@ -31,6 +31,10 @@ To build this text editor, I will start with an existing application and impleme
 
 ||
 
+![Heroku](./assets/Media/Heroku_logo.svg.png)
+Heroku Deployed Link:
+https://atomtext-app.herokuapp.com/
+
 1. Navigate to the above heroku link.
 
 # Contribution
